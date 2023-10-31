@@ -208,7 +208,7 @@ endmodule
 
 #### JK FLIPFLOPS:
 
-![276265752-31c9968c-1cb3-4b59-8e82-ba722cc5481a](https://github.com/sujithrabkn/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119477857/b907feda-76b3-42a6-b2a6-bb4e3476b9d3)
+![244848113-681c939f-6acc-4e20-8424-f93ff86d1308](https://github.com/sujithrabkn/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119477857/75d4f6b3-7d86-428e-a477-cb534743ed15)
 
 #### D FLIPFLOPS:
 
